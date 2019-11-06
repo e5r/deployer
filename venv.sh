@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -ou pipefail
 
+# Copyright (c) E5R Development Team. All rights reserved.
+# Licensed under the Apache License, Version 2.0. More license information in LICENSE.txt.
+
 exists()
 {
     if which $1 &>/dev/null; then
