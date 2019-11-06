@@ -1,0 +1,6 @@
+VENV/
+__pycache__/
+build/
+dist/
+
+deployer.spec
